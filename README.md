@@ -4,7 +4,7 @@
 - Deleting an element in BST
 - Search an element in BST
 - Finding Floor of an element x in BST i.e. Greatest value which is smaller than or equal to x
-- Finding Ceil of an element x in BST i.e. Smallest valus which is greater than or equal to x 
+- Finding Ceil of an element x in BST i.e. Smallest value which is greater than or equal to x 
 ## Description
 ### What is Binary Search Tree?
 It is a data structure in which left subtree of a node contains only nodes with keys lesser than the node's key
