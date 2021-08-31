@@ -14,8 +14,8 @@ and right subtree of a node contains only nodes with keys greater than the node'
 ## Applications :
  - It is used to maintain the sorted stream of data
  - It is used to implement Doubly Ended Priority Queue
- - It is used to count smaller or greater elements of some elements in a stream
- - It is used to find Floor , Ceil , Greater , Smaller value of some element in a stream
+ - It is used to count smaller or greater elements of any element in a stream
+ - It is used to find Floor , Ceil , Greater , Smaller value of any element in a stream
  ##  Designs and Specifications :- 
  ### The Project contains two files :-
 - One is "BST.h" which contains implementation of the data structure Binary Search Tree .
@@ -26,6 +26,6 @@ In this file , all the functions like Insert an element , Delete an element , Se
 | :--: | :-- |
 |insert() | It inserts an  element in BST such that BST is balanced after insertion|
 |delete() | It deletes an element in BST such that BST is balanced after deletion|
-|search(x) | It searches an element x in BST and return true if present else return false|
+|search(x) | It searches an element x in BST and returns true if present else returns false|
 |floor(x) | It finds the floor of element x in BST|
 |ceil(x) | It finds the ceil of element x in BST|
