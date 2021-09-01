@@ -18,9 +18,9 @@ and right subtree of a node contains only nodes with keys greater than the node'
  - It is used to find Floor , Ceil , Greater , Smaller value of any element in a stream
  ##  Designs and Specifications :- 
  ### The Project contains two files :-
-- One is "BST.h" which contains implementation of the data structure Binary Search Tree .
-- The other is "main.c" file which contains driver function to use "BST.h" . "#include BST.h" is used to use BST data structure in "main.c".
-#### About BST.h file
+- One is "BST.c" which contains implementation of the data structure Binary Search Tree .
+- The other is "main.c" file which contains driver function to use "BST.c" . "#include BST.c" is used to use BST data structure in "main.c".
+#### About BST.c file
 In this file , all the functions like Insert an element , Delete an element , Search an element , find floor of an element , find ceil of an element are created
 | Function Name | Description |
 | :--: | :-- |
